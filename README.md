@@ -3,7 +3,7 @@ Collection of VMware Support Resources
 
 ![Alt Text](media/uChYEx.png)
 
---
+
 ## Web Resources
 * VMware Support Landing Page - https://www.vmware.com/support.html
 * File a Support Request - https://www.vmware.com/support/file-sr.html
