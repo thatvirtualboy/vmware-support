@@ -17,6 +17,7 @@ Collection of VMware Support Resources
 * VMware Cares on Twitter - https://twitter.com/vmwarecares
 * VMware Support Experience on Twitter - https://twitter.com/VMwareCSE
 * Support Insider Blog - https://blogs.vmware.com/kb/
+* View Your Open Service Requests - https://my.vmware.com/group/vmware/support-requests
 
 ## Skyline
 * Landing Page - https://www.vmware.com/support/services/skyline.html
