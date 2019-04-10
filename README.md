@@ -19,7 +19,7 @@ Collection of VMware Support Resources
 ## Skyline
 * Landing Page - https://www.vmware.com/support/services/skyline.html
 * Skyline FAQ - https://kb.vmware.com/s/article/55928#q=55928
-* Skyline Login - https://cloud.vmware.com/
+* Skyline Advisor Login - https://skyline.vmware.com/advisor/
 * Skyline Community - https://communities.vmware.com/community/vmtn/skyline
 * Skyline Privacy Policy - https://www.vmware.com/solutions/trustvmware/ceip.html
 
