@@ -14,6 +14,8 @@ Collection of VMware Support Resources
 * Hardware Compatibility Guide - https://www.vmware.com/resources/compatibility/search.php
 * Product Interoperability Matrix - http://partnerweb.vmware.com/comp_guide2/sim/interop_matrix.php
 * Correlating Build Numbers and Versions of VMware Products - https://kb.vmware.com/s/article/1014508
+* VMware Cares on Twitter - https://twitter.com/vmwarecares
+* VMware Support Experience on Twitter - https://twitter.com/VMwareCSE
 * Support Insider Blog - https://blogs.vmware.com/kb/
 
 ## Skyline
@@ -22,6 +24,7 @@ Collection of VMware Support Resources
 * Skyline Advisor Login - https://skyline.vmware.com/advisor/
 * Skyline Community - https://communities.vmware.com/community/vmtn/skyline
 * Skyline Privacy Policy - https://www.vmware.com/solutions/trustvmware/ceip.html
+* Skyline and Support Experience Blog - https://blogs.vmware.com/kb/support-experience
 
 ## Support Lifecycle
 * Products Reaching End of Support - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmw-products-reaching-end-of-support.pdf
