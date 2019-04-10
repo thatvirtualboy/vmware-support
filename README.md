@@ -1,7 +1,5 @@
 # Collection of VMware Support Resources
-from your friend [@thatvirtualboy](https://twitter.com/thatvirtualboy)
-
-#vmsupport
+#vmsupport from your friend [@thatvirtualboy](https://twitter.com/thatvirtualboy)
 
 ![Alt Text](media/uChYEx.png)
 
