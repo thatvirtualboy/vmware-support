@@ -54,6 +54,7 @@ Collection of VMware Support Resources
 * Complimentary Support (Workstation/Fusion) - https://www.vmware.com/support/services/complimentary.html
 
 ## AirWatch/Workspace ONE Support
+* My Workspace ONE Login - https://secure.workspaceone.com/login?destination=https://support.workspaceone.com/requests
 * AirWatch Basic Support - http://www.air-watch.com/downloads/AW-Basic-Datasheet.pdf
 * AirWatch Production Support - http://www.air-watch.com/downloads/AW-Production-Datasheet.pdf
 * Mission Critical Support for Workspace ONE - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmware-mission-critical-support-for-workspace-one.pdf
