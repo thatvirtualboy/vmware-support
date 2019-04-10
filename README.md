@@ -28,10 +28,10 @@
 * Skyline and Support Experience Blog - https://blogs.vmware.com/kb/support-experience
 
 ## Skyline Videos
-Getting Started with Skyline - https://youtu.be/U6pTLFGlKjM
-Introduction to Skyline Advisor - https://youtu.be/fb_51R9MMa0
-Skyline 2.0 Proactive Support Webinar Demo - https://youtu.be/FD8wl0rFvRs
-Skyline YouTube Playlist - https://www.youtube.com/playlist?list=PL9MeVsU0uG66ts4jiTxT1rt9Hi-N4GUl3
+* Getting Started with Skyline - https://youtu.be/U6pTLFGlKjM
+* Introduction to Skyline Advisor - https://youtu.be/fb_51R9MMa0
+* Skyline 2.0 Proactive Support Webinar Demo - https://youtu.be/FD8wl0rFvRs
+* Skyline YouTube Playlist - https://www.youtube.com/playlist?list=PL9MeVsU0uG66ts4jiTxT1rt9Hi-N4GUl3
 
 ## Support Lifecycle
 * Products Reaching End of Support - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmw-products-reaching-end-of-support.pdf
