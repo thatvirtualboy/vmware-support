@@ -15,7 +15,6 @@
 * Product Interoperability Matrix - http://partnerweb.vmware.com/comp_guide2/sim/interop_matrix.php
 * Correlating Build Numbers and Versions of VMware Products - https://kb.vmware.com/s/article/1014508
 * VMware Cares on Twitter - https://twitter.com/vmwarecares
-* VMware Support Experience on Twitter - https://twitter.com/VMwareCSE
 * Support Insider Blog - https://blogs.vmware.com/kb/
 * View Your Open Service Requests - https://my.vmware.com/group/vmware/support-requests
 
@@ -26,6 +25,7 @@
 * Skyline Community - https://communities.vmware.com/community/vmtn/skyline
 * Skyline Privacy Policy - https://www.vmware.com/solutions/trustvmware/ceip.html
 * Skyline and Support Experience Blog - https://blogs.vmware.com/kb/support-experience
+* VMware Skyline on Twitter - https://twitter.com/VMwareSkyline
 
 ## Skyline Videos
 * Getting Started with Skyline - https://youtu.be/U6pTLFGlKjM
