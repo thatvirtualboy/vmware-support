@@ -1,7 +1,7 @@
 # Collection of VMware Support Resources
 #vmsupport from your friend [@thatvirtualboy](https://twitter.com/thatvirtualboy)
 
-![Alt Text](media/uChYEx.png)
+![Alt Text](media/vm-support-300x.png)
 
 
 ## Web Resources
