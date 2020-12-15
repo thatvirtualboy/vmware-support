@@ -29,9 +29,9 @@
 
 ## Skyline Videos
 * Getting Started with Skyline - https://youtu.be/U6pTLFGlKjM
-* Introduction to Skyline Advisor - https://youtu.be/fb_51R9MMa0
-* Skyline 2.0 Proactive Support Webinar Demo - https://youtu.be/FD8wl0rFvRs
-* Skyline YouTube Playlist - https://www.youtube.com/playlist?list=PL9MeVsU0uG66ts4jiTxT1rt9Hi-N4GUl3
+* Skyline Overview - https://youtu.be/YcPoRRjeZQo
+* Using Skyline as a Forensic Tool - https://youtu.be/TvoyRzkSZHw
+* Skyline YouTube Playlist - https://youtube.com/playlist?list=PL9MeVsU0uG66ts4jiTxT1rt9Hi-N4GUl3
 
 ## Support Lifecycle
 * Products Reaching End of Support - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmw-products-reaching-end-of-support.pdf
@@ -42,11 +42,19 @@
 ## On Premesis Support Offerings
 * Basic Support - https://www.vmware.com/support/services/basic.html
 * Production Support - https://www.vmware.com/support/services/production.html
+* Premier Support - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmw-premier-support-datasheet.pdf
+   * Premier Support for Financial - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmw-premier-financial-datasheet.pdf
+   * Premier Support for Healthcare - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmw-premier-support-for-healthcare.pdf
+   * Premier Support for Telco - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmw-premier-support-for-telco-datasheet.pdf
+   * Premier Support for Federal - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmw-premier-support-for-federal-datasheet.pdf
+* Extended Support - https://www.vmware.com/support/services/extended.html
+
+### The following Support Offerings are no longer available for purchase as of September 2, 2019
 * Business Critical Support (BCS) - https://www.vmware.com/support/services/bcs.html
 * Mission Critical Support (MCS) - https://www.vmware.com/support/services/mission-critical.html
 * Healthcare Critical Support (HCS) - https://www.vmware.com/support/services/hcs.html
 * Carrier Grade Support (Premier Telco) - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/carrier-grade.pdf
-* Extended Support - https://www.vmware.com/support/services/extended.html
+* Mission Critical Support for Workspace ONE - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmware-mission-critical-support-for-workspace-one.pdf
 
 ## Hosted Support Offerings
 * IaaS Production Support - https://www.vmware.com/support/services/iaas-production.html
@@ -67,4 +75,4 @@
 * My Workspace ONE Login - https://secure.workspaceone.com/login?destination=https://support.workspaceone.com/requests
 * AirWatch Basic Support - http://www.air-watch.com/downloads/AW-Basic-Datasheet.pdf
 * AirWatch Production Support - http://www.air-watch.com/downloads/AW-Production-Datasheet.pdf
-* Mission Critical Support for Workspace ONE - https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/vmware-mission-critical-support-for-workspace-one.pdf
+
